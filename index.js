@@ -31,10 +31,8 @@ do {
 
 i++;
 
-newArray.push(“I love the Beatles!”);
+newArray.push("I love the Beatles!");
 
 } while (i < 15);
 return newArray;
-}
-}
 }
