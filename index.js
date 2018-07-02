@@ -28,11 +28,8 @@ var newArray = [];
 var i = 0;
 
 do {
-
-i++;
-
 newArray.push("I love the Beatles!");
-
+i++;
 } while (i < 15);
 return newArray;
 }
